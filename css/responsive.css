@@ -1,0 +1,282 @@
+@media(max-width:575px) and (min-width:0){
+    .banner_part h1 {
+        font-size: 50px;
+        color: #222;
+        font-weight: 800;
+        letter-spacing: 4px;
+        margin: 0;
+        margin-top: 50px;
+    }
+    .banner_part {
+        min-height: 60vh;
+    }
+    .shopping_btn{
+        margin-bottom: 20px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .trending_part {
+        padding: 70px 0;
+    }
+    .trending_text h2{
+      text-align: center;
+      color:green  
+    }
+    .about_text h1{
+        color: green;
+        text-align: center;
+        font-size: 35px;
+    }
+    .t_shirt h3{
+        font-size: 35px;
+        color: green;
+    }
+    .portfolio_part{
+        margin-bottom: 20px;
+    }
+    .footer_part h1 {
+        font-size: 35px;
+        text-align: center;
+        color: green;
+    }
+    .footer_part ul{
+        margin-bottom: 60px;
+    }
+    .menu_part ul h6 {
+        color: green;
+        font-size: 24px;
+        text-align: center;
+        font-weight: 700;
+    }
+    .menu_part ul{
+        text-align: center;
+    }
+    .help_part h6 {
+        color: green;
+        font-size: 24px;
+        text-align: center;
+        margin-top: 31px;
+        font-weight: 700;
+    }
+    .help_part ul{
+        text-align: center;
+    }
+    .last_part h6{
+        color: green;
+        font-size: 24px;
+        text-align: center;
+        margin-top: 31px;
+        font-weight: 700;
+    }
+    .last_part ul{
+        text-align: center;
+    }
+    .contact_info{
+        margin: 25px 0;
+    }
+}
+@media(max-width:767px) and (min-width:0){
+    .banner_part h1{
+        font-size: 70px;
+    }
+    .trending_img {
+        margin-bottom: 22px;
+    }
+    .about_text h1{
+        font-size: 46px;
+    }
+    .footer_part ul{
+        margin-bottom: 50px;
+    }
+    .menu_part ul h6{
+        font-size: 26px;
+    }
+    .help_part h6{
+        font-size: 28px;
+        margin: 20px 0;
+    }
+    .last_part h6{
+        font-size: 25px;
+        margin: 22px 0;
+    }
+    .footer_part h1{
+        text-align: center;
+    }
+    .contact_info{
+        margin: 25px 0;
+    }
+    .banner_part h1{
+        margin-top: 100px;
+    }
+}
+@media(max-width:992px) and (min-width:0){
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl{
+        display: inline-block;
+    }
+    .banner_part h1 {
+        margin-top: 122px;
+        font-size: 80px;
+    }
+    .about_text h1{
+        font-size: 40px;
+    }
+    .para{
+        display: none;
+    }
+    .portfolio_icon ul {
+        padding-top: 14px;
+        margin-left: -41px;
+    }
+    .portfolio_icon ul li a i {
+        font-size: 13px;
+        margin-bottom: 16px;
+    }
+    .locartion_part{
+        font-size: 14px;
+    }
+    .footer_part h1{
+        font-size: 28px;
+    }
+    .footer_part ul li{
+        margin: 0;
+        margin: 0 10px;
+    }
+    .menu_part ul h6{
+        font-size: 20px;
+        color: green;
+        margin: 20px 0;
+    }
+    .help_part h6{
+        font-size: 21px;
+        color: green;
+    }
+    .last_part h6{
+        font-size: 18px;
+        color: green;
+    }
+    .home p{
+        font-size: 15px;
+    }
+    .footer_part ul li {
+        margin: 0;
+        margin: 10px 4px;
+    }
+    .footer_part ul {
+        margin: 0;
+        padding: 0;
+        margin-top: 30px;
+        margin-left: -26px;
+    }
+}
+@media(max-width:1200px) and (min-width:0){
+    .portfolio_icon ul {
+        margin-left: 0px;
+    }
+    .portfolio_icon ul li a i {
+        font-size: 16px;
+        margin-bottom: 18px;
+        margin-left: -126ox;
+    }
+    .locartion_part{
+        font-size: 14px;
+    }
+    .banner_part h1{
+        margin-top: 140px;
+    }
+    .trending_text ul li i{
+        margin-left: 60px;
+    }
+}
+@media(max-width:400px) and (min-width:0){
+    .banner_part h1 {
+        margin-top: 100px;
+        font-size: 40px;
+    }
+    
+    .trending_text ul li i{
+        margin-left: 100px;
+    }
+    .portfolio_icon ul {
+        margin-left: 35px;
+    }
+    .footer_part ul {
+        margin: 0;
+        padding: 0;
+        margin-top: 30px;
+        margin-left: 95px;
+        margin-bottom: 30px;
+    }
+    .menu_part ul h6 {
+        font-size: 26px;
+    }
+    .menu_part ul li a{
+        font-size: 20px;
+    }
+    .help_part h6{
+        font-size: 28px;
+    }
+    .help_part ul li a{
+        font-size: 18px;
+    }
+    .last_part h6{
+        font-size: 20px;
+    }
+    .copy p{
+        font-size: 17px;
+    }
+}
+@media(max-width:350px) and (min-width:0){
+    .banner_part h1 {
+        margin-top: 70px;
+        font-size: 40px;
+    }
+    .trending_text h2 {
+        font-size: 22px;
+    }
+    .trending_text ul li i {
+        margin-left: 140px;
+    }
+    .trending_text ul li p {
+        color: #111;
+        font-size: 13px;
+    }
+    .about_text h1 {
+        font-size: 22px;
+    }
+    .about_text p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .t_shirt h3 {
+        font-size: 23px;
+        color: green;
+    }
+    .t_shirt ul li {
+        font-size: 15px;
+        margin: 5px 0;
+    }
+    .services_part h1{
+        font-size: 32px;
+        margin-bottom: 0;
+    }
+    .Blog_part h1{
+        font-size: 34px;
+        margin-bottom: 34px;
+    }
+    .product_part h1{
+        font-size: 34px;
+    }
+    .product_part h1{
+        font-size: 30px;
+    }
+    .main_text h2{
+        font-size: 30px;
+    }
+    .portfolio_icon ul{
+        margin-left: 12px;
+    }
+    .footer_part ul {
+        margin-left: 58px;
+    }
+}
